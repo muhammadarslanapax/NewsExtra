@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "372259276317",
+    "firebase_url": "https://newsextra-cda0d.firebaseio.com",
+    "project_id": "newsextra-cda0d",
+    "storage_bucket": "newsextra-cda0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372259276317:android:497fdb049884a6409c28f4",
+        "android_client_info": {
+          "package_name": "apps.envisionapps.newsextra_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372259276317-1cnsatmmcvp792148b1lsvh9seug59st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtjB4Wm-x1PfuvpD16GW1qjSPxHH-S_6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372259276317-el6k9gbgusd28on7bpvhvmq3miclr83n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372259276317:android:af5a7c6187a094af",
+        "android_client_info": {
+          "package_name": "envision.apps.newsextra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372259276317-t3jhsgeb6eque5kcj7upq3htdm4sc3k8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "envision.apps.newsextra",
+            "certificate_hash": "22cc86c9c8183694cbe07664fd19473cf4d13f2a"
+          }
+        },
+        {
+          "client_id": "372259276317-1cnsatmmcvp792148b1lsvh9seug59st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtjB4Wm-x1PfuvpD16GW1qjSPxHH-S_6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372259276317-el6k9gbgusd28on7bpvhvmq3miclr83n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6229189630006029~4396273370"
+    }
+  ],
+  "configuration_version": "1"
+}

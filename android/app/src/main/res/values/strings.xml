@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NewsExtra</string>
+
+   <string name="facebook_app_id">1031444283920611</string>
+<string name="fb_login_protocol_scheme">fb1031444283920611</string>
+
+
+<string name="Admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+
+</resources>
